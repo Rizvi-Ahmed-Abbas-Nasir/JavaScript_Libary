@@ -1,0 +1,5 @@
+JavaScript Vaiables 
+There are Four Types of variables in Javascript
+var = 10;
+const = 10;
+let = 300;

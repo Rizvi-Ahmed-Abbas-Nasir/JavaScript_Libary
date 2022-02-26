@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "name": "Launch localhost",
+            "url": "file:///C:/Important/Javascript%20Libary/index.html",
+            "webRoot": "${workspaceFolder}",
+            "showConsoleCallLocation": true
+        },
+        
+    
+        {
+            "type": "pwa-msedge",
+            "name": "Enter",
+            "request": "launch",
+            "url": ""
+            
+        }
+    ]
+}
