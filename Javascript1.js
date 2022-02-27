@@ -10,4 +10,4 @@ function myFunction()
 
 }
 
-myFunction();
+myFunction("Shama","Fatima");
