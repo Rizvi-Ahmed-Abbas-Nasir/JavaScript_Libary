@@ -15,7 +15,7 @@
             "type": "pwa-msedge",
             "name": "Enter",
             "request": "launch",
-            "url": ""
+            "url": "file:///C:/Important/JavaScript_Libary/index.html"
             
         }
     ]
