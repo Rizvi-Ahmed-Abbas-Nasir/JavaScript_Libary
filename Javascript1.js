@@ -38,3 +38,24 @@ function fun2()
 // Function Call
 funct1();
 fun2();
+
+var string_Name = 'a';
+
+console.log(typeof(string_Name));
+
+function timeFives(num){
+  return num * 5;
+}
+
+console.log(timeFives(10));
+
+function nextInLine(arr,item){
+  arr.push(item);
+  return item;
+}
+
+var testArr = [1,2,3,4,5];
+
+console.log("Before "+ JSON.stringify(testArr));
+console.log(nextInLine(testArr,6));
+console.log("After " +JSON.stringify(testArr));
